@@ -1,4 +1,3 @@
-import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
 import Card from "./shared/Card";
 import Button from "./shared/Button";
